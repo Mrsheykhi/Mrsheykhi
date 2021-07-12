@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mrsheykhi
+- 👀 I’m interested in embedded systems.
+- 🌱 I’m currently learning STM32.
+- 📫 How to reach me sheykhi.mmm@gmail.com.
